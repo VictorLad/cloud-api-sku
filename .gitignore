@@ -1,0 +1,14 @@
+node_modules
+dist
+logs
+.tmp
+.idea
+build
+npm-debug.log
+*.swp
+.DS_Store
+.vscode
+log
+coverage
+src/templates
+package-lock.json
