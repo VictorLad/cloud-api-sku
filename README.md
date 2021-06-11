@@ -13,8 +13,6 @@ npm install
 
 ## Command lines
 
-```
-
 ### Start application
 
 ```
